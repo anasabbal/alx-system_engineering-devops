@@ -1,7 +1,2 @@
 #!/bin/bash
-
-# Create my_dir directory
-mkdir my_dir
-
-# Set permissions to 751
-chmod 751 my_dir
+mkdir -m 751 dir_holberton
